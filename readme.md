@@ -60,16 +60,30 @@ pip install -r requirements.txt
 Create `.env`:
 
 ```env
-TOKEN="YOUR_BOT_TOKEN"
-PREFIX="-"
-SHARD_COUNT=1
+TOKEN=""
 
-MONGO_URI="YOUR_MONGODB_URI"
-MONGO_NAME="reo"
+PREFIX="?"
 
-DISCORD_CLIENT_ID="YOUR_DISCORD_APP_ID"
-DISCORD_CLIENT_SECRET="YOUR_DISCORD_CLIENT_SECRET"
+SHARD_COUNT="2"
+
+BOT_NAME="Reo"
+
+# Web / API Hosting
+WEB_HOST="0.0.0.0"
+WEB_PORT="25572"
+
+
+# Automation Features
+SYNC_EMOJIS="False"
+
+# OAuth2 / Dashboard Configuration
+DISCORD_CLIENT_ID=""
+DISCORD_CLIENT_SECRET=""
+DASHBOARD_SECRET="reo-x09x-dashboard-local-secret-codex-dev-0916-x16x-CHANGE-IT-OR-NOT-SECURE"
 DASHBOARD_BASE_URL="http://localhost:25572"
+
+# MongoDB Database Configuration
+MONGO_URI="mongodb+srv://user:password@cluster.mongodb.net/?appName=Cluster"
 ```
 
 ### 3. Discord application setup
