@@ -62,9 +62,9 @@ Create `.env`:
 ```env
 TOKEN=""
 
-PREFIX="?"
+PREFIX=""
 
-SHARD_COUNT="2"
+SHARD_COUNT=""
 
 BOT_NAME="Reo"
 
@@ -79,11 +79,11 @@ SYNC_EMOJIS="False"
 # OAuth2 / Dashboard Configuration
 DISCORD_CLIENT_ID=""
 DISCORD_CLIENT_SECRET=""
-DASHBOARD_SECRET="reo-x09x-dashboard-local-secret-codex-dev-0916-x16x-CHANGE-IT-OR-NOT-SECURE"
+DASHBOARD_SECRET=""
 DASHBOARD_BASE_URL="http://localhost:25572"
 
 # MongoDB Database Configuration
-MONGO_URI="mongodb+srv://user:password@cluster.mongodb.net/?appName=Cluster"
+MONGO_URI=""
 ```
 
 ### 3. Discord application setup
