@@ -5,19 +5,19 @@ Reo is a modern, multipurpose Discord bot featuring a seamless web dashboard, co
 ## Showcase
 
 ### Overview
-
-![REO Overview](https://media.discordapp.net/attachments/1491710555587874846/1495749350511476926/reo1.png?ex=69e760a2&is=69e60f22&hm=f48dcad7762fd1059338292eebb5022ce1b0209cf82d1160e1b0c3aa840b38cc&=&format=webp&quality=lossless&width=1573&height=884)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e9bb032c-c96f-4fcf-a8c2-d6189da1e9ff" />
 
 ### Music
 
-![REO Music](https://media.discordapp.net/attachments/1491710555587874846/1495749589700186202/image.png?ex=69e760db&is=69e60f5b&hm=0533ad53b73cebddd94d9345304b6579eaed54413f12ff9700355a7f573882f0&=&format=webp&quality=lossless&width=1573&height=884)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/507f0aa3-9bc1-4074-a6e4-62cfaa20a58a" />
 
 
 ### Bot UI
 
-![REO Help Command UI](https://media.discordapp.net/attachments/1491710555587874846/1495750041191841913/image.png?ex=69e76147&is=69e60fc7&hm=a7dee9c78d710f873a827796b27ffb286ebf0eb4e3921659900c7db455456972&=&format=webp&quality=lossless&width=724&height=933)
+<img width="658" height="848" alt="image" src="https://github.com/user-attachments/assets/00b7c7a6-39cf-4d42-9d10-b65607d6d4c8" />
+<br>
 
-![REO Music Command UI](https://media.discordapp.net/attachments/1491710555587874846/1495750051836858548/image.png?ex=69e7614a&is=69e60fca&hm=bb4f986480a22cd1e2dfff28c58a4b1c5ef2df155f6841ea9c82a0ccf44e8bbf&=&format=webp&quality=lossless&width=823&height=603)
+<img width="748" height="548" alt="image" src="https://github.com/user-attachments/assets/68f9902c-01a8-42d5-a624-be8005fb604b" />
 
 
 ## Features
