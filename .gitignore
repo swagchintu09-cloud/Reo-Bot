@@ -67,7 +67,7 @@ logs/
 transcripts/
 secrets/
 # In case secrets is a folder with environments
-.env
+.env/secrets
 
 # Environment variables
 .venv
